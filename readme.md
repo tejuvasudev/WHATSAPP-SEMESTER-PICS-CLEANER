@@ -4,7 +4,7 @@ We all end up with hell lot of _images to be deleted_ at the end of each semeste
 
 like this: 
 
-<img src="behind_the_scenes/image.jpeg" width="300px" height="500px" />
+<img src="image.jpeg" width="300px" height="500px" />
 
 Images in red circles are notes which you may wanna delete or extract them to a folder (in case you are a maggu :P) and blue circles are important ones which shouldn't be messed up with.
 
